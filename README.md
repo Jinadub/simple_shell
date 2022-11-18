@@ -1,2 +1,1 @@
-Simple Shell project
-
+THE SIMPLE SHELL PROJECT
